@@ -5,3 +5,5 @@ hash code
 
 lesson02 (remote repository)
 github
+echo, cat
+push, remote

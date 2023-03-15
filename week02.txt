@@ -1,0 +1,3 @@
+leson01
+pwd, ls, cd
+git init
